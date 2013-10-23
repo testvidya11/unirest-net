@@ -1,0 +1,4 @@
+language: csharp
+csharp:
+  - dotNet45
+build_environment: win2012
