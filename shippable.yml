@@ -3,4 +3,4 @@ csharp:
   - dotNet40
 build_environment: win2012
 script:
- - msbuild unirest-net.sln
+ - Nunit unirest-net.sln
